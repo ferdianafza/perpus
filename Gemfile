@@ -56,3 +56,9 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'devise'
 
 gem 'foreman'
+
+gem 'chartkick'
+
+gem 'highcharts-rails'
+
+gem 'groupdate'
